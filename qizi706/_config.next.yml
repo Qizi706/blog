@@ -385,7 +385,7 @@ codeblock:
     style: flat
   # Fold code block
   fold:
-    enable: true
+    enable: false
     height: 500
   # Display language name
   language: true
